@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" role="img">
+  <rect width="640" height="800" fill="#111111"/>
+  <rect x="0" y="0" width="12" height="800" fill="#C7FF00"/>
+  <circle cx="320" cy="280" r="110" fill="#1c1c1c" stroke="#C7FF00" stroke-width="3"/>
+  <rect x="180" y="420" width="280" height="260" rx="140" fill="#1c1c1c" stroke="#C7FF00" stroke-width="3"/>
+  <text x="40" y="760" font-family="Anton, Impact, sans-serif" font-size="36" fill="#ffffff">PHOTO PLACEHOLDER</text>
+</svg>

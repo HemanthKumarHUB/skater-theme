@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img">
+  <rect width="800" height="1000" fill="#161616"/>
+  <g opacity="0.18">
+    <rect x="32" y="80" width="900" height="8" fill="#9a9a9a" transform="rotate(-8 400 500)"/>
+    <rect x="-8" y="220" width="980" height="3" fill="#C7FF00" transform="rotate(4 400 500)"/>
+  </g>
+  <ellipse cx="400" cy="500" rx="210" ry="430" fill="#0a0a0a" stroke="#9a9a9a" stroke-width="10"/>
+  <ellipse cx="400" cy="500" rx="186" ry="406" fill="#111"/>
+  <polygon points="232,180 596,320 580,820 220,740" fill="#9a9a9a" opacity="0.92"/>
+  <text x="400" y="520" text-anchor="middle" fill="#080808" font-family="Anton, Impact, sans-serif" font-size="64">GRIP</text>
+  <text x="400" y="560" text-anchor="middle" fill="#080808" font-family="Inter, sans-serif" font-size="16" letter-spacing="6">PLACEHOLDER GRAPHIC</text>
+  <circle cx="400" cy="170" r="18" fill="#C7FF00"/>
+  <circle cx="400" cy="830" r="18" fill="#C7FF00"/>
+</svg>
